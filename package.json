@@ -1,7 +1,7 @@
 {
   "name": "react-native-root-view-background",
   "version": "1.0.2",
-  "description": "",
+  "description": "react native root view background",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johniak/react-native-root-view-background.git"
+    "url": "https://github.com/webyonet/react-native-root-view-background.git"
   },
   "keywords": [
     "android",
@@ -23,5 +23,5 @@
     "react-component",
     "root view"
   ],
-  "homepage": "https://github.com/johniak/react-native-root-view-background"
+  "homepage": "https://github.com/webyonet/react-native-root-view-background"
 }

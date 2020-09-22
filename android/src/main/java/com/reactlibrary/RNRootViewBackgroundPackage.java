@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.rnrootviewbackground;
 
 import java.util.Arrays;
 import java.util.Collections;
